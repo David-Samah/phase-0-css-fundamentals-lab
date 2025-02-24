@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+display:flex;
+justify-content:center;
+}
+
+img{
+  display:block;
+  margin:0 auto;
+  width:900px;
+}
+a{
+  display:flex;
+  justify-content:center;
+  padding:10px
+}
+
+figcaption{
+  display:flex;
+  font-size:11px;
+  justify-content:center;
+}
+ p{
+  display:flex;
+  justify-content:center;
+  width:800px;
+
+ }
+ div{
+  float:left;
+ }
+
+.diiv{
+  background-color:red;
+  flex-wrap: wrap;
+  display:flex;
+  justify-content:center;
+  font-size:xx-small;
+
+}
